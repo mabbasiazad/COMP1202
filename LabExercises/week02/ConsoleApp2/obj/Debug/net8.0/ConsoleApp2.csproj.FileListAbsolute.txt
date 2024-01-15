@@ -1,0 +1,14 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercise\week02\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
