@@ -5,9 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week02", "week02", "{C2CA7DF4-5754-44AE-B2BB-F6E1C2B5659D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "week02\ConsoleApp1\ConsoleApp1.csproj", "{AB578006-150C-413B-B80A-EC9E364E7021}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelsiusToFahrenheit", "week02\ConsoleApp1\CelsiusToFahrenheit.csproj", "{AB578006-150C-413B-B80A-EC9E364E7021}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "week02\ConsoleApp2\ConsoleApp2.csproj", "{84F20FDF-2B46-4188-AE15-E745696259BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MileToFeetToMeter", "week02\ConsoleApp2\MileToFeetToMeter.csproj", "{84F20FDF-2B46-4188-AE15-E745696259BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeMoney", "week02\ChangeMoney\ChangeMoney.csproj", "{C9BC5D6B-DE45-440B-91D6-67063001E33D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{84F20FDF-2B46-4188-AE15-E745696259BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84F20FDF-2B46-4188-AE15-E745696259BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84F20FDF-2B46-4188-AE15-E745696259BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9BC5D6B-DE45-440B-91D6-67063001E33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BC5D6B-DE45-440B-91D6-67063001E33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BC5D6B-DE45-440B-91D6-67063001E33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BC5D6B-DE45-440B-91D6-67063001E33D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +36,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{AB578006-150C-413B-B80A-EC9E364E7021} = {C2CA7DF4-5754-44AE-B2BB-F6E1C2B5659D}
 		{84F20FDF-2B46-4188-AE15-E745696259BF} = {C2CA7DF4-5754-44AE-B2BB-F6E1C2B5659D}
+		{C9BC5D6B-DE45-440B-91D6-67063001E33D} = {C2CA7DF4-5754-44AE-B2BB-F6E1C2B5659D}
 	EndGlobalSection
 EndGlobal
