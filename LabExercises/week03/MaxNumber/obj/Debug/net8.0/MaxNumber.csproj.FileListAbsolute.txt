@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\bin\Debug\net8.0\MaxNumber.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\bin\Debug\net8.0\MaxNumber.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\bin\Debug\net8.0\MaxNumber.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\bin\Debug\net8.0\MaxNumber.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\bin\Debug\net8.0\MaxNumber.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\obj\Debug\net8.0\MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\obj\Debug\net8.0\MaxNumber.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\obj\Debug\net8.0\MaxNumber.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\obj\Debug\net8.0\MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\obj\Debug\net8.0\MaxNumber.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\obj\Debug\net8.0\MaxNumber.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\obj\Debug\net8.0\refint\MaxNumber.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\obj\Debug\net8.0\MaxNumber.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\obj\Debug\net8.0\MaxNumber.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\MaxNumber\obj\Debug\net8.0\ref\MaxNumber.dll
