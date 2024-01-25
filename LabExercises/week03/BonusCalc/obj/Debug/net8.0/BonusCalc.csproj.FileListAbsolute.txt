@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\obj\Debug\net8.0\BonusCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\obj\Debug\net8.0\BonusCalc.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\obj\Debug\net8.0\BonusCalc.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\obj\Debug\net8.0\BonusCalc.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\obj\Debug\net8.0\BonusCalc.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\bin\Debug\net8.0\BonusCalc.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\bin\Debug\net8.0\BonusCalc.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\bin\Debug\net8.0\BonusCalc.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\bin\Debug\net8.0\BonusCalc.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\bin\Debug\net8.0\BonusCalc.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\obj\Debug\net8.0\BonusCalc.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\obj\Debug\net8.0\refint\BonusCalc.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\obj\Debug\net8.0\BonusCalc.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\obj\Debug\net8.0\BonusCalc.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week03\BonusCalc\obj\Debug\net8.0\ref\BonusCalc.dll
