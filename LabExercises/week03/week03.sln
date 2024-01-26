@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusCalc", "BonusCalc\Bonu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxNumber", "MaxNumber\MaxNumber.csproj", "{850C74C1-970A-4A0D-8E60-AD883ECC72D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputCheck", "InputCheck\InputCheck.csproj", "{7E6DE850-4979-4A6D-B7B1-FA85629B0EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwichCase", "SwichCase\SwichCase.csproj", "{90C388A4-E2B6-4C44-BF7B-3DA895427FA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{850C74C1-970A-4A0D-8E60-AD883ECC72D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{850C74C1-970A-4A0D-8E60-AD883ECC72D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{850C74C1-970A-4A0D-8E60-AD883ECC72D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E6DE850-4979-4A6D-B7B1-FA85629B0EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E6DE850-4979-4A6D-B7B1-FA85629B0EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E6DE850-4979-4A6D-B7B1-FA85629B0EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E6DE850-4979-4A6D-B7B1-FA85629B0EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C388A4-E2B6-4C44-BF7B-3DA895427FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C388A4-E2B6-4C44-BF7B-3DA895427FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C388A4-E2B6-4C44-BF7B-3DA895427FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C388A4-E2B6-4C44-BF7B-3DA895427FA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
