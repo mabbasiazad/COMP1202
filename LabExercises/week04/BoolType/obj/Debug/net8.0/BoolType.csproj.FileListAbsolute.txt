@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\bin\Debug\net8.0\BoolType.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\bin\Debug\net8.0\BoolType.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\bin\Debug\net8.0\BoolType.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\bin\Debug\net8.0\BoolType.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\bin\Debug\net8.0\BoolType.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\obj\Debug\net8.0\BoolType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\obj\Debug\net8.0\BoolType.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\obj\Debug\net8.0\BoolType.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\obj\Debug\net8.0\BoolType.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\obj\Debug\net8.0\BoolType.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\obj\Debug\net8.0\BoolType.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\obj\Debug\net8.0\refint\BoolType.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\obj\Debug\net8.0\BoolType.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\obj\Debug\net8.0\BoolType.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\BoolType\obj\Debug\net8.0\ref\BoolType.dll

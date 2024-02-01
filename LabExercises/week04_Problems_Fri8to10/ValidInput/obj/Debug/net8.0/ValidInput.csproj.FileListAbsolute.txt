@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\bin\Debug\net8.0\ValidInput.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\bin\Debug\net8.0\ValidInput.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\bin\Debug\net8.0\ValidInput.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\bin\Debug\net8.0\ValidInput.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\bin\Debug\net8.0\ValidInput.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\obj\Debug\net8.0\ValidInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\obj\Debug\net8.0\ValidInput.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\obj\Debug\net8.0\ValidInput.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\obj\Debug\net8.0\ValidInput.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\obj\Debug\net8.0\ValidInput.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\obj\Debug\net8.0\ValidInput.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\obj\Debug\net8.0\refint\ValidInput.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\obj\Debug\net8.0\ValidInput.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\obj\Debug\net8.0\ValidInput.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04_Problems\ValidInput\obj\Debug\net8.0\ref\ValidInput.dll

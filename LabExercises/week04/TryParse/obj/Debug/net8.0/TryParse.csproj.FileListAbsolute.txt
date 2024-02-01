@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\bin\Debug\net8.0\TryParse.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\bin\Debug\net8.0\TryParse.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\bin\Debug\net8.0\TryParse.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\bin\Debug\net8.0\TryParse.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\bin\Debug\net8.0\TryParse.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\obj\Debug\net8.0\TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\obj\Debug\net8.0\TryParse.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\obj\Debug\net8.0\TryParse.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\obj\Debug\net8.0\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\obj\Debug\net8.0\TryParse.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\obj\Debug\net8.0\TryParse.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\obj\Debug\net8.0\refint\TryParse.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\obj\Debug\net8.0\TryParse.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\obj\Debug\net8.0\TryParse.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TryParse\obj\Debug\net8.0\ref\TryParse.dll

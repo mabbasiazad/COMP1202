@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\bin\Debug\net8.0\TempConversion.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\bin\Debug\net8.0\TempConversion.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\bin\Debug\net8.0\TempConversion.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\bin\Debug\net8.0\TempConversion.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\bin\Debug\net8.0\TempConversion.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\obj\Debug\net8.0\TempConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\obj\Debug\net8.0\TempConversion.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\obj\Debug\net8.0\TempConversion.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\obj\Debug\net8.0\TempConversion.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\obj\Debug\net8.0\TempConversion.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\obj\Debug\net8.0\TempConversion.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\obj\Debug\net8.0\refint\TempConversion.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\obj\Debug\net8.0\TempConversion.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\obj\Debug\net8.0\TempConversion.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\TempConversion\obj\Debug\net8.0\ref\TempConversion.dll

@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\bin\Debug\net8.0\ForLoopIntro.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\bin\Debug\net8.0\ForLoopIntro.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\bin\Debug\net8.0\ForLoopIntro.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\bin\Debug\net8.0\ForLoopIntro.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\bin\Debug\net8.0\ForLoopIntro.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\obj\Debug\net8.0\ForLoopIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\obj\Debug\net8.0\ForLoopIntro.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\obj\Debug\net8.0\ForLoopIntro.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\obj\Debug\net8.0\ForLoopIntro.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\obj\Debug\net8.0\ForLoopIntro.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\obj\Debug\net8.0\ForLoopIntro.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\obj\Debug\net8.0\refint\ForLoopIntro.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\obj\Debug\net8.0\ForLoopIntro.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\obj\Debug\net8.0\ForLoopIntro.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\ForLoopIntro\obj\Debug\net8.0\ref\ForLoopIntro.dll

@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\obj\Debug\net8.0\DivByZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\obj\Debug\net8.0\DivByZero.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\obj\Debug\net8.0\DivByZero.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\obj\Debug\net8.0\DivByZero.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\obj\Debug\net8.0\DivByZero.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\bin\Debug\net8.0\DivByZero.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\bin\Debug\net8.0\DivByZero.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\bin\Debug\net8.0\DivByZero.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\bin\Debug\net8.0\DivByZero.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\bin\Debug\net8.0\DivByZero.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\obj\Debug\net8.0\DivByZero.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\obj\Debug\net8.0\refint\DivByZero.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\obj\Debug\net8.0\DivByZero.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\obj\Debug\net8.0\DivByZero.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\DivByZero\obj\Debug\net8.0\ref\DivByZero.dll

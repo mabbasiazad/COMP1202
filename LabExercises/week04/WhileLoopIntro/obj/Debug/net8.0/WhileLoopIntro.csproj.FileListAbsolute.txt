@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\bin\Debug\net8.0\WhileLoopIntro.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\bin\Debug\net8.0\WhileLoopIntro.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\bin\Debug\net8.0\WhileLoopIntro.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\bin\Debug\net8.0\WhileLoopIntro.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\bin\Debug\net8.0\WhileLoopIntro.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\obj\Debug\net8.0\WhileLoopIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\obj\Debug\net8.0\WhileLoopIntro.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\obj\Debug\net8.0\WhileLoopIntro.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\obj\Debug\net8.0\WhileLoopIntro.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\obj\Debug\net8.0\WhileLoopIntro.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\obj\Debug\net8.0\WhileLoopIntro.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\obj\Debug\net8.0\refint\WhileLoopIntro.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\obj\Debug\net8.0\WhileLoopIntro.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\obj\Debug\net8.0\WhileLoopIntro.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\WhileLoopIntro\obj\Debug\net8.0\ref\WhileLoopIntro.dll
