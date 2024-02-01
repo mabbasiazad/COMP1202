@@ -20,7 +20,7 @@ public class Sum
         Console.Write(sum);
 
         //Console.WriteLine($"the sum of numbers between 0 to {LIMIT} is {sum}");
-        //added to github
+        //added to github from visual studio code
         Console.WriteLine();
         Console.WriteLine("the program is over");
         Console.ReadLine();
