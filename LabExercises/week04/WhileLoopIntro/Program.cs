@@ -23,7 +23,6 @@ public class Sum
         //added to github from visual studio code
         Console.WriteLine();
         Console.WriteLine("the program is over");
-        Console.ReadLine();
     }
 }
 
