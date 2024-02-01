@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\bin\Debug\net8.0\GuessRandNum.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\bin\Debug\net8.0\GuessRandNum.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\bin\Debug\net8.0\GuessRandNum.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\bin\Debug\net8.0\GuessRandNum.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\bin\Debug\net8.0\GuessRandNum.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\obj\Debug\net8.0\GuessRandNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\obj\Debug\net8.0\GuessRandNum.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\obj\Debug\net8.0\GuessRandNum.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\obj\Debug\net8.0\GuessRandNum.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\obj\Debug\net8.0\GuessRandNum.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\obj\Debug\net8.0\GuessRandNum.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\obj\Debug\net8.0\refint\GuessRandNum.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\obj\Debug\net8.0\GuessRandNum.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\obj\Debug\net8.0\GuessRandNum.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week04\GuessRandNum\obj\Debug\net8.0\ref\GuessRandNum.dll
