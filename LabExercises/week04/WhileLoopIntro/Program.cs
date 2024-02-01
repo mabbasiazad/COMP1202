@@ -21,7 +21,9 @@ public class Sum
 
         //Console.WriteLine($"the sum of numbers between 0 to {LIMIT} is {sum}");
         //added to github
-        Console.ReadKey();
+        Console.WriteLine();
+        Console.WriteLine("the program is over");
+        Console.ReadLine();
     }
 }
 
