@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\bin\Debug\net8.0\example_3.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\bin\Debug\net8.0\example_3.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\bin\Debug\net8.0\example_3.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\bin\Debug\net8.0\example_3.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\bin\Debug\net8.0\example_3.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\obj\Debug\net8.0\example_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\obj\Debug\net8.0\example_3.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\obj\Debug\net8.0\example_3.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\obj\Debug\net8.0\example_3.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\obj\Debug\net8.0\example_3.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\obj\Debug\net8.0\example_3.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\obj\Debug\net8.0\refint\example_3.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\obj\Debug\net8.0\example_3.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\obj\Debug\net8.0\example_3.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LiveLabExercises\week05_Online\week05\example_3\obj\Debug\net8.0\ref\example_3.dll
