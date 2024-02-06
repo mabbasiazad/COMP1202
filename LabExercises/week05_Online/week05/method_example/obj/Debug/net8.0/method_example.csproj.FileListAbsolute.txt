@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\bin\Debug\net8.0\method_example.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\bin\Debug\net8.0\method_example.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\bin\Debug\net8.0\method_example.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\bin\Debug\net8.0\method_example.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\bin\Debug\net8.0\method_example.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\obj\Debug\net8.0\method_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\obj\Debug\net8.0\method_example.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\obj\Debug\net8.0\method_example.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\obj\Debug\net8.0\method_example.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\obj\Debug\net8.0\method_example.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\obj\Debug\net8.0\method_example.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\obj\Debug\net8.0\refint\method_example.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\obj\Debug\net8.0\method_example.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\obj\Debug\net8.0\method_example.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\method_example\obj\Debug\net8.0\ref\method_example.dll

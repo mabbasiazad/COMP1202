@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\obj\Debug\net8.0\sumMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\obj\Debug\net8.0\sumMethod.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\obj\Debug\net8.0\sumMethod.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\obj\Debug\net8.0\sumMethod.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\obj\Debug\net8.0\sumMethod.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\bin\Debug\net8.0\sumMethod.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\bin\Debug\net8.0\sumMethod.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\bin\Debug\net8.0\sumMethod.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\bin\Debug\net8.0\sumMethod.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\bin\Debug\net8.0\sumMethod.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\obj\Debug\net8.0\sumMethod.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\obj\Debug\net8.0\refint\sumMethod.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\obj\Debug\net8.0\sumMethod.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\obj\Debug\net8.0\sumMethod.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week05_Online\week05\sumMethod\obj\Debug\net8.0\ref\sumMethod.dll
