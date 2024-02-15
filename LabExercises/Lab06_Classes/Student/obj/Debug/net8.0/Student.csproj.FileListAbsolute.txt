@@ -1,0 +1,12 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab06_Classes\Student\bin\Debug\net8.0\Student.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab06_Classes\Student\bin\Debug\net8.0\Student.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab06_Classes\Student\bin\Debug\net8.0\Student.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab06_Classes\Student\obj\Debug\net8.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab06_Classes\Student\obj\Debug\net8.0\Student.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab06_Classes\Student\obj\Debug\net8.0\Student.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab06_Classes\Student\obj\Debug\net8.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab06_Classes\Student\obj\Debug\net8.0\Student.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab06_Classes\Student\obj\Debug\net8.0\Student.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab06_Classes\Student\obj\Debug\net8.0\refint\Student.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab06_Classes\Student\obj\Debug\net8.0\Student.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab06_Classes\Student\obj\Debug\net8.0\ref\Student.dll
