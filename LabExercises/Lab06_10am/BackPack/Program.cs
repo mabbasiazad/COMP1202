@@ -13,7 +13,7 @@ class BackPack
 
     // define a method called print() which prints out the varibles on the console
     // I want to use the method from outside of the class
-    ??? ??? print(???) {
+    public void print() {
         string msg = "ID: " + idNum +
                     "Main Color: " + mainColor +
                     "Num of Stains: " + numStains + 
@@ -32,6 +32,18 @@ public class Proram
 {
   public static void Main(string[] args)
   {
-    
+    //create an "instance" or an "object" from my class (BackPack)
+    BackPack bp_0 = new BackPack {
+        idNum = 0, 
+        mainColor = "black", 
+        numStains = 0, 
+        numStraps = 2
+    };
+
+    bp_0.print();
+    bp_0.mainColor = "red";
+    bp_0.print();
+
+
   }  
 }
