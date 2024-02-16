@@ -33,6 +33,15 @@ public class BackPack
         Console.WriteLine(msg);
     }  
 
+    public override string ToString() {
+        string msg = "ID: " + idNum +
+                "\t\tColor: " + mainColor +
+                "\t\tNum of Stains: " + numStains +
+                "\t\tNum of Straps: " + numStraps;
+        
+        return msg;
+    }
+
     public bool isBright() 
     {
         Console.Write($"Is back pack {idNum} bright? ");
@@ -64,6 +73,8 @@ public class Program
         //BackPack bp_3 = new BackPack(id_num: 3, main_color: "red", num_stains: 2, num_straps: 2);
         BackPack bp_3 = new BackPack(idNum: 3, mainColor: "red", numStains: 2, numStraps: 2);
         bp_3.print();
+        Console.WriteLine("print using ToString() method");
+        Console.WriteLine(bp_3.ToString());
         bp_3.isBright();
 
         bp_3.mainColor = "black"; 
