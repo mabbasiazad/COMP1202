@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassInstantiate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c683375da76a63a9ec91648d607ecff97a3bc430")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaaedef49bd8e39642153ca8344979a39ee6c830")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassInstantiate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassInstantiate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
