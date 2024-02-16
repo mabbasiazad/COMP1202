@@ -95,6 +95,19 @@ public class Proram
     var bp_3 = new BackPack(idNum: 3, mainColor: "yellow", numStains: 4, numStraps: 0);
     Console.WriteLine(bp_3);
 
+    // int[] numbers = {1 , 3, 5, 8}; 
+    // foreach (int num in numbers)
+    // {
+    //     Console.WriteLine(num);
+    // }
+
+    // BackPack[] bp_lists = {bp_0,  bp_1, bp_3};
+
+    // foreach (var bp in bp_lists)
+    // {
+    //     Console.WriteLine(bp.mainColor); 
+    // }
+
 
 
 
