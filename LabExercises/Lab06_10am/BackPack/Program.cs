@@ -48,6 +48,19 @@ class BackPack
         Console.WriteLine("No");
         return false; 
     }
+
+    public bool isClean() {
+        Console.Write($"Is back pack {idNum} clean? ");
+        if (numStains < 2){
+            Console.WriteLine("Yes");
+            return true;
+        }
+
+        Console.WriteLine("No");
+        return false; 
+    }
+
+
     
     public void print() {
         string msg = "ID: " + idNum +
@@ -83,7 +96,7 @@ public class Proram
         numStraps = 2
     };
 
-    bp_0.print();
+    //bp_0.print();
     bp_0.mainColor = "red";
     bp_0.print();
 
@@ -93,11 +106,11 @@ public class Proram
     bp_1.idNum = 1; 
     bp_1.mainColor = "blue"; 
     bp_1.numStains = 5; 
-    bp_1.numStraps = 1; 
+    //bp_1.numStraps = 1; 
 
-    Console.WriteLine("print by my print method");
-    bp_1.print();
-    Console.WriteLine("print by Console.WriteLine");
+    //Console.WriteLine("print by my print method");
+    //bp_1.print();
+    //Console.WriteLine("print by Console.WriteLine");
     Console.WriteLine(bp_1.ToString());
     // you can delet .ToString()
     //Console.WriteLine(bp_1);
@@ -118,8 +131,16 @@ public class Proram
     //     Console.WriteLine(bp.mainColor); 
     // }
 
+    bp_0.isBright();
+    bp_1.isBright();
+    //bp_3.isBright();
 
+    bp_1.mainColor = "orange"; 
+    bp_1.isBright();
 
+    bp_0.isClean();
+    bp_1.isClean();
+    bp_3.isClean();
 
   }  
 }
