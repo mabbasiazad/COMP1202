@@ -12,8 +12,15 @@ class BackPack
     public int numStraps; 
 
     // define a method called print() which prints out the varibles on the console
+    // I want to use the method from outside of the class
     ??? ??? print(???) {
+        string msg = "ID: " + idNum +
+                    "Main Color: " + mainColor +
+                    "Num of Stains: " + numStains + 
+                    "Num of Straps: " + numStraps; 
         
+        Console.WriteLine(msg); 
+
     }
 
 
