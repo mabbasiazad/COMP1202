@@ -8,11 +8,20 @@ public class BackPack
     public int numStains;
     public int numStraps;
 
-    public BackPack(int id_num, string main_color, int num_stains, int num_straps){
-        idNum = id_num;
-        mainColor = main_color; 
-        numStains = num_stains; 
-        numStraps = num_straps;
+    // public BackPack(int id_num, string main_color, int num_stains, int num_straps){
+    //     idNum = id_num;
+    //     mainColor = main_color; 
+    //     numStains = num_stains; 
+    //     numStraps = num_straps;
+    // }
+
+    // var this = new BackPack(....)
+
+    public BackPack(int idNum, string mainColor, int numStains, int numStraps){
+        this.idNum = idNum;
+        this.mainColor = mainColor; 
+        this.numStains = numStains; 
+        this.numStraps = numStraps;
     }
 
     public void print(){
@@ -52,12 +61,13 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        BackPack bp_3 = new BackPack(id_num: 3, main_color: "red", num_stains: 2, num_straps: 2);
+        //BackPack bp_3 = new BackPack(id_num: 3, main_color: "red", num_stains: 2, num_straps: 2);
+        BackPack bp_3 = new BackPack(idNum: 3, mainColor: "red", numStains: 2, numStraps: 2);
         bp_3.print();
         bp_3.isBright();
 
         bp_3.mainColor = "black"; 
-        bp_3.print(); 
+        bp_3.print();
         bp_3.isBright(); 
         
     }
