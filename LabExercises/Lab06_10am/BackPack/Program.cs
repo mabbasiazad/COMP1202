@@ -36,6 +36,19 @@ class BackPack
 
     // define a method called print() which prints out the varibles on the console
     // I want to use the method from outside of the class
+    
+    public bool isBright() {
+        //return mainColor == "red" || mainColor == "yellow" || mainColor == "orange";
+        Console.Write($"Is back pack {idNum} bright? ");
+        if (mainColor == "red" || mainColor == "yellow" || mainColor == "orange"){
+            Console.WriteLine("Yes");
+            return true;
+        }
+
+        Console.WriteLine("No");
+        return false; 
+    }
+    
     public void print() {
         string msg = "ID: " + idNum +
                     "\t\tMain Color: " + mainColor +
@@ -54,9 +67,6 @@ class BackPack
         return msg;
 
     }
-
-
-
 
     //methods for this class
 }
