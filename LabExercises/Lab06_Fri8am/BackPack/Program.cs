@@ -5,7 +5,7 @@ public class BackPack
 {
     public int idNum; 
     public string mainColor;
-    public int numStains;
+    private int numStains;
     public int numStraps;
 
     // public BackPack(int id_num, string main_color, int num_stains, int num_straps){
@@ -30,7 +30,7 @@ public class BackPack
     public void print(){
         string msg = "ID: " + idNum +
                     "\t\tColor: " + mainColor +
-                    "\t\tNum of Stains: " + numStains +
+                    //"\t\tNum of Stains: " + numStains +
                     "\t\tNum of Straps: " + numStraps;
 
         Console.WriteLine(msg);
@@ -39,7 +39,7 @@ public class BackPack
     public override string ToString() {
         string msg = "ID: " + idNum +
                 "\t\tColor: " + mainColor +
-                "\t\tNum of Stains: " + numStains +
+                //"\t\tNum of Stains: " + numStains +
                 "\t\tNum of Straps: " + numStraps;
         
         return msg;
@@ -108,6 +108,8 @@ public class Program
         BackPack.info();
         Console.WriteLine(bp_4);
         bp_4.isClean();
+
+        //bp_4.numStains = 5;
 
          
         
