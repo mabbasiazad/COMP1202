@@ -23,6 +23,17 @@ class BackPack
         }
     }
 
+    public string MainColor {
+
+        set {
+            mainColor = value;
+        }
+
+        get {
+            return mainColor;
+        }
+    }
+
     //default construcor - mehtod by nature
     public BackPack() {
 
@@ -72,7 +83,12 @@ class BackPack
         return false; 
     }
 
-
+    public static void info() {
+        Console.WriteLine("====================================================");
+        Console.WriteLine("This class is for defining back pack objects");
+        Console.WriteLine("with their colors, cleanliness state, and features");
+        Console.WriteLine("====================================================\n");
+    }
     
     public void print() {
         string msg = "ID: " + idNum +
@@ -155,11 +171,16 @@ public class Proram
     bp_3.isClean();
 
     //Console.WriteLine("number of stains" + bp_0.numStains); 
-
+    
     Console.WriteLine("having access to numStain through NumStain property");
     bp_0.NumStain = 10; 
     Console.WriteLine("private num_stains changed inside Main()", bp_0.NumStain); 
     bp_0.isClean(); 
+
+    //bp_0.info();
+    //bp_1.info(); 
+    //bp_3.info(); 
+    BackPack.info(); 
 
   }  
 }
