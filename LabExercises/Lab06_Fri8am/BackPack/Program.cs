@@ -1,4 +1,5 @@
-﻿using System.Runtime.CompilerServices;
+﻿namespace wee06_Fri8am; 
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 public class BackPack
@@ -15,11 +16,13 @@ public class BackPack
     //     numStraps = num_straps;
     // }
 
-    // var this = new BackPack(....)
+    // BackPack this = new BackPack(....)
     //default constructor
     public BackPack() {
 
     }
+    
+    //user defined constructor
     public BackPack(int idNum, string mainColor, int numStains, int numStraps){
         this.idNum = idNum;
         this.mainColor = mainColor; 
@@ -36,6 +39,7 @@ public class BackPack
         Console.WriteLine(msg);
     }  
 
+    //ToString methods called by Console.WriteLine()
     public override string ToString() {
         string msg = "ID: " + idNum +
                 "\t\tColor: " + mainColor +
@@ -45,6 +49,7 @@ public class BackPack
         return msg;
     }
 
+    //Static class: The same for all objects
     public static void info() {
         Console.WriteLine("==========================================================");
         Console.WriteLine("This class is for defining back pack objects"); 
@@ -90,6 +95,9 @@ public class Program
 {
     public static void Main(string[] args)
     {
+        //Practise: Use default constructor to creat an object ????
+        
+        //Creating an object / instance form my defined constructor
         //BackPack bp_3 = new BackPack(id_num: 3, main_color: "red", num_stains: 2, num_straps: 2);
         BackPack bp_3 = new BackPack(idNum: 3, mainColor: "red", numStains: 2, numStraps: 2);
         //bp_3.info();
@@ -97,6 +105,8 @@ public class Program
         bp_3.print();
         Console.WriteLine("print using ToString() method");
         Console.WriteLine(bp_3.ToString());
+        // you can also delete ToString() form above line
+        Console.WriteLine(bp_3);
         bp_3.isBright();
 
         bp_3.mainColor = "black"; 
