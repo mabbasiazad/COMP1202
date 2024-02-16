@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackPack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaaedef49bd8e39642153ca8344979a39ee6c830")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+088366c9c78f62841496667b1d5dc9e9d80239b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackPack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackPack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

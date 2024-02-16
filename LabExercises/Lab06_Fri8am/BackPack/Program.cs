@@ -24,12 +24,41 @@ public class BackPack
         Console.WriteLine(msg);
     }  
 
+    public bool isBright() 
+    {
+        Console.Write($"Is back pack {idNum} bright? ");
+
+        switch (mainColor) {
+            case "orange":
+            case "red":
+            case "yellow":
+                Console.WriteLine("Yes");
+                return true;
+            default:
+                Console.WriteLine("No");
+                return false;
+        }
+
+        // if ((mainColor == "red") || (mainColor == "yellow") || (mainColor == "orange")) {
+        //     return true;
+        // } 
+
+        // return false; 
+
+    }
 }
 
 public class Program
 {
     public static void Main(string[] args)
     {
+        BackPack bp_3 = new BackPack(id_num: 3, main_color: "red", num_stains: 2, num_straps: 2);
+        bp_3.print();
+        bp_3.isBright();
+
+        bp_3.mainColor = "black"; 
+        bp_3.print(); 
+        bp_3.isBright(); 
         
     }
 }
