@@ -6,10 +6,22 @@ class BackPack
     //id, color, numStains, numStraps
 
     //public means: I can read/write the varible or method form outside the class
+    //fields
     public int idNum;
     public string mainColor;
     private int numStains; 
     public int numStraps; 
+
+    //properties
+    public int NumStain {
+        set {
+            numStains = value;
+        }
+
+        get {
+            return numStains;
+        }
+    }
 
     //default construcor - mehtod by nature
     public BackPack() {
@@ -143,6 +155,11 @@ public class Proram
     bp_3.isClean();
 
     //Console.WriteLine("number of stains" + bp_0.numStains); 
+
+    Console.WriteLine("having access to numStain through NumStain property");
+    bp_0.NumStain = 10; 
+    Console.WriteLine("private num_stains changed inside Main()", bp_0.NumStain); 
+    bp_0.isClean(); 
 
   }  
 }
