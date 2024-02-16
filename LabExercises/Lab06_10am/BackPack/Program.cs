@@ -15,9 +15,9 @@ class BackPack
     // I want to use the method from outside of the class
     public void print() {
         string msg = "ID: " + idNum +
-                    "Main Color: " + mainColor +
-                    "Num of Stains: " + numStains + 
-                    "Num of Straps: " + numStraps; 
+                    "\t\tMain Color: " + mainColor +
+                    "\t\tNum of Stains: " + numStains + 
+                    "\t\tNum of Straps: " + numStraps; 
         
         Console.WriteLine(msg); 
 
