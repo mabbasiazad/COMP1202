@@ -8,7 +8,7 @@ class BackPack
     //public means: I can read/write the varible or method form outside the class
     public int idNum;
     public string mainColor;
-    public int numStains; 
+    private int numStains; 
     public int numStraps; 
 
     //default construcor - mehtod by nature
@@ -65,7 +65,7 @@ class BackPack
     public void print() {
         string msg = "ID: " + idNum +
                     "\t\tMain Color: " + mainColor +
-                    "\t\tNum of Stains: " + numStains + 
+                    //"\t\tNum of Stains: " + numStains + 
                     "\t\tNum of Straps: " + numStraps; 
         
         Console.WriteLine(msg); 
@@ -75,7 +75,7 @@ class BackPack
     public override string ToString() {
         string msg = "ID: " + idNum +
                 "\t\tMain Color: " + mainColor +
-                "\t\tNum of Stains: " + numStains + 
+                //"\t\tNum of Stains: " + numStains + 
                 "\t\tNum of Straps: " + numStraps; 
         return msg;
 
@@ -92,7 +92,7 @@ public class Proram
     BackPack bp_0 = new BackPack {
         idNum = 0, 
         mainColor = "black", 
-        numStains = 0, 
+        //numStains = 0, 
         numStraps = 2
     };
 
@@ -105,7 +105,7 @@ public class Proram
     // define: id = 1, color = blue, numStains = 5, numStraps = 1
     bp_1.idNum = 1; 
     bp_1.mainColor = "blue"; 
-    bp_1.numStains = 5; 
+    //bp_1.numStains = 5; 
     //bp_1.numStraps = 1; 
 
     //Console.WriteLine("print by my print method");
@@ -141,6 +141,8 @@ public class Proram
     bp_0.isClean();
     bp_1.isClean();
     bp_3.isClean();
+
+    //Console.WriteLine("number of stains" + bp_0.numStains); 
 
   }  
 }
