@@ -11,6 +11,11 @@ class BackPack
     public int numStains; 
     public int numStraps; 
 
+    //default construcor - mehtod by nature
+    public BackPack() {
+
+    }
+
     // define a method called print() which prints out the varibles on the console
     // I want to use the method from outside of the class
     public void print() {
@@ -20,6 +25,15 @@ class BackPack
                     "\t\tNum of Straps: " + numStraps; 
         
         Console.WriteLine(msg); 
+
+    }
+
+    public override string ToString() {
+        string msg = "ID: " + idNum +
+                "\t\tMain Color: " + mainColor +
+                "\t\tNum of Stains: " + numStains + 
+                "\t\tNum of Straps: " + numStraps; 
+        return msg;
 
     }
 
@@ -33,6 +47,7 @@ public class Proram
   public static void Main(string[] args)
   {
     //create an "instance" or an "object" from my class (BackPack)
+    // Approach #1
     BackPack bp_0 = new BackPack {
         idNum = 0, 
         mainColor = "black", 
@@ -43,6 +58,19 @@ public class Proram
     bp_0.print();
     bp_0.mainColor = "red";
     bp_0.print();
+
+    //Approach #2: using constructor to creat an object / instance
+    BackPack bp_1 = new BackPack(); 
+    // define: id = 1, color = blue, numStains = 5, numStraps = 1
+    bp_1.idNum = 1; 
+    bp_1.mainColor = "blue"; 
+    bp_1.numStains = 5; 
+    bp_1.numStraps = 1; 
+
+    bp_1.print();
+    Console.WriteLine(bp_1.ToString());
+
+
 
 
   }  
