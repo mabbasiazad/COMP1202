@@ -13,13 +13,27 @@ class BackPack
         //do nothing 
     }
 
+    // //user defined constructor (1)
+    // public BackPack(int id_num, string main_color, int num_stains, int num_straps) {
+    //     //operation is a bunch of variable assignment
+    //     idNum = id_num;
+    //     mainColor = main_color;
+    //     numStains = num_stains;
+    //     numStraps = num_straps;
+    // }
+
     //user defined constructor
-    public BackPack(int id_num, string main_color, int num_stains, int num_straps) {
+    // var this = new BackPack(...)
+    public BackPack(int idNum, string mainColor, int numStains, int numStraps) {
         //operation is a bunch of variable assignment
-        idNum = id_num;
-        mainColor = main_color;
-        numStains = num_stains;
-        numStraps = num_straps;
+        this.idNum = idNum;
+        this.mainColor = mainColor;
+        this.numStains = numStains;
+        this.numStraps = numStraps;
+    }
+
+    ??? ??? isBright() {
+        //if the color is "red"/"orange" /"yellow"
     }
 
     public void print() {
@@ -67,8 +81,10 @@ class Program
         //using user defined constructor
         // 1. I used constructor to crate an object
         // 2. I used constructor to initialize my class variables
-        BackPack bp_2 = new BackPack(id_num: 2, main_color: "yellow", num_stains: 4, num_straps: 1); 
+        //BackPack bp_2 = new BackPack(id_num: 2, main_color: "yellow", num_stains: 4, num_straps: 1); 
+        BackPack bp_2 = new BackPack(idNum: 2, mainColor: "yellow", numStains: 4, numStraps: 1); 
         BackPack bp_3 = new BackPack(3, "yellow", 4, 1); 
+
         bp_2.print();
 
         // 
