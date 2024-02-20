@@ -32,8 +32,17 @@ class BackPack
         this.numStraps = numStraps;
     }
 
-    ??? ??? isBright() {
+    public  bool isBright() {
         //if the color is "red"/"orange" /"yellow"
+        // if the color is "red"/"orange"/"yellow" should say it's bright
+        if (mainColor == "red" || mainColor == "orange" || mainColor == "yellow"){
+            Console.WriteLine($"The back pack {idNum} of color {mainColor} is bright.");
+            return true;
+        }
+
+        Console.WriteLine($"The back pack {idNum} of color {mainColor} is not bright.");
+        return false;
+   
     }
 
     public void print() {
@@ -63,7 +72,7 @@ class Program
 
         bp_0.print(); 
 
-        bp_0.mainColor = "Blue";
+        bp_0.mainColor = "blue";
 
         bp_0.print(); 
 
@@ -86,6 +95,10 @@ class Program
         BackPack bp_3 = new BackPack(3, "yellow", 4, 1); 
 
         bp_2.print();
+
+        bp_0.isBright();
+        bp_1.isBright();
+        bp_3.isBright();
 
         // 
 
