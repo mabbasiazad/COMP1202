@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\bin\Debug\net8.0\BackPack.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\bin\Debug\net8.0\BackPack.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\bin\Debug\net8.0\BackPack.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\bin\Debug\net8.0\BackPack.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\bin\Debug\net8.0\BackPack.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\obj\Debug\net8.0\BackPack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\obj\Debug\net8.0\BackPack.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\obj\Debug\net8.0\BackPack.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\obj\Debug\net8.0\BackPack.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\obj\Debug\net8.0\BackPack.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\obj\Debug\net8.0\BackPack.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\obj\Debug\net8.0\refint\BackPack.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\obj\Debug\net8.0\BackPack.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\obj\Debug\net8.0\BackPack.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Online\BackPack\obj\Debug\net8.0\ref\BackPack.dll
