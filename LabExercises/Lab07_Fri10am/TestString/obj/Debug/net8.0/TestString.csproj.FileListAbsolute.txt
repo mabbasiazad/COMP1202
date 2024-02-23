@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\bin\Debug\net8.0\TestString.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\bin\Debug\net8.0\TestString.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\bin\Debug\net8.0\TestString.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\bin\Debug\net8.0\TestString.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\bin\Debug\net8.0\TestString.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\obj\Debug\net8.0\TestString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\obj\Debug\net8.0\TestString.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\obj\Debug\net8.0\TestString.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\obj\Debug\net8.0\TestString.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\obj\Debug\net8.0\TestString.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\obj\Debug\net8.0\TestString.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\obj\Debug\net8.0\refint\TestString.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\obj\Debug\net8.0\TestString.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\obj\Debug\net8.0\TestString.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\TestString\obj\Debug\net8.0\ref\TestString.dll
