@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Genome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ec8ef2f724df95e6f6b404852245b1789997bee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69dc36c5dbfcd875e69990995768115032e6b1c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Genome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Genome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

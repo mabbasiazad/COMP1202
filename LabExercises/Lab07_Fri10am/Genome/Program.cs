@@ -74,8 +74,13 @@ class Program
         Console.WriteLine("The gene section: " + sub_gene);
         
         string dna3 = "ATGxxxyyyzzzTAA";
+        sub_gene = gene.findValidGene(dna3);
+        Console.WriteLine("The gene section: " + sub_gene);
 
-        string dna4 = "ATGxxxyyyzzzyyTAAxxxyyyzzzTAA";
+        string dna4 = "ATGxxxyyyzzzyyTAAxxxyyyzzzCTAA";
+        sub_gene = gene.findValidGene(dna4);
+        Console.WriteLine("The gene section: " + sub_gene);
+        
         
     }
 }
