@@ -14,9 +14,16 @@
         string sub_string = s[1..7];
         System.Console.WriteLine("Substring from index 1 (included) to 7 (exluded): " + sub_string);
 
-        // 3- indexOf()
+        // 3- indexOf(a)
         int index = s.IndexOf("M");
         System.Console.WriteLine("Index of the first occurrence of 'M': " + index);
+
+        //indexOf(a, b)
+        index = s.IndexOf("O");
+        System.Console.WriteLine("Index of the first occurrence of 'O': " + index);
+
+        index = s.IndexOf("O", 6);
+        System.Console.WriteLine("Index of the first occurrence of 'O' after index 6: " + index);
 
         index = s.IndexOf("Object"); //????
         System.Console.WriteLine("Index of the first occurrence of 'Object': " + index);
