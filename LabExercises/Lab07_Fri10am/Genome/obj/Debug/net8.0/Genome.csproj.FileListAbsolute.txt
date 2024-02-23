@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\bin\Debug\net8.0\Genome.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\bin\Debug\net8.0\Genome.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\bin\Debug\net8.0\Genome.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\bin\Debug\net8.0\Genome.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\bin\Debug\net8.0\Genome.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\obj\Debug\net8.0\Genome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\obj\Debug\net8.0\Genome.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\obj\Debug\net8.0\Genome.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\obj\Debug\net8.0\Genome.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\obj\Debug\net8.0\Genome.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\obj\Debug\net8.0\Genome.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\obj\Debug\net8.0\refint\Genome.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\obj\Debug\net8.0\Genome.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\obj\Debug\net8.0\Genome.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Fri10am\Genome\obj\Debug\net8.0\ref\Genome.dll
