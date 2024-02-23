@@ -1,0 +1,14 @@
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\bin\Debug\net8.0\GenomeProject.exe
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\bin\Debug\net8.0\GenomeProject.deps.json
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\bin\Debug\net8.0\GenomeProject.runtimeconfig.json
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\bin\Debug\net8.0\GenomeProject.dll
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\bin\Debug\net8.0\GenomeProject.pdb
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\obj\Debug\net8.0\GenomeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\obj\Debug\net8.0\GenomeProject.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\obj\Debug\net8.0\GenomeProject.AssemblyInfo.cs
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\obj\Debug\net8.0\GenomeProject.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\obj\Debug\net8.0\GenomeProject.dll
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\obj\Debug\net8.0\refint\GenomeProject.dll
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\obj\Debug\net8.0\GenomeProject.pdb
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\obj\Debug\net8.0\GenomeProject.genruntimeconfig.cache
+C:\Users\mabba\OneDrive\Desktop\week07_Fri8am\GenomeProject\obj\Debug\net8.0\ref\GenomeProject.dll

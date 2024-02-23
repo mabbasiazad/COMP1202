@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareProg", "ShareProg\ShareProg.csproj", "{7B27A222-25D2-4E72-9010-718B5AC27ED1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsAndMethods", "StringsAndMethods\StringsAndMethods.csproj", "{B2CCBA7B-EBB9-44AB-AC59-82ACDBFE4F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenomeProject", "GenomeProject\GenomeProject.csproj", "{410FAC58-C110-4EC8-8559-81D13FEE6B7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{7B27A222-25D2-4E72-9010-718B5AC27ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B27A222-25D2-4E72-9010-718B5AC27ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B27A222-25D2-4E72-9010-718B5AC27ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CCBA7B-EBB9-44AB-AC59-82ACDBFE4F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CCBA7B-EBB9-44AB-AC59-82ACDBFE4F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CCBA7B-EBB9-44AB-AC59-82ACDBFE4F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CCBA7B-EBB9-44AB-AC59-82ACDBFE4F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410FAC58-C110-4EC8-8559-81D13FEE6B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410FAC58-C110-4EC8-8559-81D13FEE6B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410FAC58-C110-4EC8-8559-81D13FEE6B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410FAC58-C110-4EC8-8559-81D13FEE6B7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

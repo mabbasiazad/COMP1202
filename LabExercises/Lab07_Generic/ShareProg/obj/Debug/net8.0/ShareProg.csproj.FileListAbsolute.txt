@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\bin\Debug\net8.0\ShareProg.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\bin\Debug\net8.0\ShareProg.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\bin\Debug\net8.0\ShareProg.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\bin\Debug\net8.0\ShareProg.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\bin\Debug\net8.0\ShareProg.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\obj\Debug\net8.0\ShareProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\obj\Debug\net8.0\ShareProg.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\obj\Debug\net8.0\ShareProg.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\obj\Debug\net8.0\ShareProg.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\obj\Debug\net8.0\ShareProg.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\obj\Debug\net8.0\ShareProg.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\obj\Debug\net8.0\refint\ShareProg.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\obj\Debug\net8.0\ShareProg.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\obj\Debug\net8.0\ShareProg.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\ShareProg\obj\Debug\net8.0\ref\ShareProg.dll

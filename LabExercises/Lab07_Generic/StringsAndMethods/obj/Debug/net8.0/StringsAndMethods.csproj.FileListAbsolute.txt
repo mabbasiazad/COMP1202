@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\bin\Debug\net8.0\StringsAndMethods.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\bin\Debug\net8.0\StringsAndMethods.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\bin\Debug\net8.0\StringsAndMethods.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\bin\Debug\net8.0\StringsAndMethods.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\bin\Debug\net8.0\StringsAndMethods.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\obj\Debug\net8.0\StringsAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\obj\Debug\net8.0\StringsAndMethods.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\obj\Debug\net8.0\StringsAndMethods.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\obj\Debug\net8.0\StringsAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\obj\Debug\net8.0\StringsAndMethods.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\obj\Debug\net8.0\StringsAndMethods.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\obj\Debug\net8.0\refint\StringsAndMethods.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\obj\Debug\net8.0\StringsAndMethods.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\obj\Debug\net8.0\StringsAndMethods.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Lab07_Generic\StringsAndMethods\obj\Debug\net8.0\ref\StringsAndMethods.dll
