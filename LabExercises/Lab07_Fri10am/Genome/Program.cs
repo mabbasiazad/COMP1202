@@ -35,9 +35,24 @@ class Genomics
 
         int stopIndex = dna.IndexOf("TAA", startIndex + 3);
 
+        while (stopIndex != -1)
+        {
+            if((stopIndex - startIndex) % 3 == 0){
+            //...
+                string gene = dna[startIndex..(stopIndex + 3)];
+                return gene;
+            }
+            else {
+                //stopIndex++;
+                stopIndex = dna.IndexOf("TAA", stopIndex++);
+            }            
+        }
+
+        return "No gene found";
+        
         //in valid gene stopIndex - startIndex should be multiple of 3
-        //if stopIndex - startIndex is not multiple of 3, find the next TAA
-        //Do this until you find a valid gene or stopIndex is -1
+        //if stopIndex - startIndex is not multiple of 3, find the next TAA (new stopCodon)
+        //and repeat the process - Do this until you find a valid gene or stopIndex is -1
     }
 }
 
