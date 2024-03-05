@@ -44,7 +44,7 @@ class Genomics
             }
             else {
                 //stopIndex++;
-                stopIndex = dna.IndexOf("TAA", stopIndex++);
+                stopIndex = dna.IndexOf("TAA", stopIndex + 1);
             }            
         }
 
@@ -80,7 +80,7 @@ class Program
         string dna4 = "ATGxxxyyyzzzyyTAAxxxyyyzzzCTAA";
         sub_gene = gene.findValidGene(dna4);
         Console.WriteLine("The gene section: " + sub_gene);
-        
+
         
     }
 }

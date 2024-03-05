@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsAndMethods", "String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenomeProject", "GenomeProject\GenomeProject.csproj", "{410FAC58-C110-4EC8-8559-81D13FEE6B7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{F10A1326-9B24-4F75-8F65-828F89D078B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{410FAC58-C110-4EC8-8559-81D13FEE6B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{410FAC58-C110-4EC8-8559-81D13FEE6B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{410FAC58-C110-4EC8-8559-81D13FEE6B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10A1326-9B24-4F75-8F65-828F89D078B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10A1326-9B24-4F75-8F65-828F89D078B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10A1326-9B24-4F75-8F65-828F89D078B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10A1326-9B24-4F75-8F65-828F89D078B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
