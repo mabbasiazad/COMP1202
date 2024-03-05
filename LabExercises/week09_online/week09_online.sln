@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genomics", "Genomics\Genomics.csproj", "{F108404B-3082-4D1A-8333-D4B96419810F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmUp", "WarmUp\WarmUp.csproj", "{14691200-AE50-4002-8F25-FCD3F50750A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F108404B-3082-4D1A-8333-D4B96419810F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F108404B-3082-4D1A-8333-D4B96419810F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F108404B-3082-4D1A-8333-D4B96419810F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14691200-AE50-4002-8F25-FCD3F50750A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14691200-AE50-4002-8F25-FCD3F50750A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14691200-AE50-4002-8F25-FCD3F50750A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14691200-AE50-4002-8F25-FCD3F50750A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\bin\Debug\net8.0\WarmUp.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\bin\Debug\net8.0\WarmUp.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\bin\Debug\net8.0\WarmUp.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\bin\Debug\net8.0\WarmUp.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\bin\Debug\net8.0\WarmUp.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\obj\Debug\net8.0\WarmUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\obj\Debug\net8.0\WarmUp.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\obj\Debug\net8.0\WarmUp.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\obj\Debug\net8.0\WarmUp.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\obj\Debug\net8.0\WarmUp.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\obj\Debug\net8.0\WarmUp.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\obj\Debug\net8.0\refint\WarmUp.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\obj\Debug\net8.0\WarmUp.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\obj\Debug\net8.0\WarmUp.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_online\WarmUp\obj\Debug\net8.0\ref\WarmUp.dll
