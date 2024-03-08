@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\bin\Debug\net8.0\Rational.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\bin\Debug\net8.0\Rational.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\bin\Debug\net8.0\Rational.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\bin\Debug\net8.0\Rational.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\bin\Debug\net8.0\Rational.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\obj\Debug\net8.0\Rational.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\obj\Debug\net8.0\Rational.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\obj\Debug\net8.0\Rational.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\obj\Debug\net8.0\Rational.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\obj\Debug\net8.0\Rational.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\obj\Debug\net8.0\Rational.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\obj\Debug\net8.0\refint\Rational.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\obj\Debug\net8.0\Rational.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\obj\Debug\net8.0\Rational.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week09_Fri10am\Rational\obj\Debug\net8.0\ref\Rational.dll
