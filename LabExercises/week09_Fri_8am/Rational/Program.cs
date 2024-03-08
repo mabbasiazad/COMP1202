@@ -115,6 +115,6 @@ public class Program
         subResult = r1.sub(r2);
 
         Rational mulResult = r1.mul(r2); 
-        Console.WriteLine("the multiplication result is: "+ m);
+        Console.WriteLine("the multiplication result is: "+ mulResult);
     }
 }
