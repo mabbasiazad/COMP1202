@@ -38,7 +38,12 @@ class Rational
 
     //this as an obj inside the class this.numer
     public Rational add(Rational anotherR) {
-        
+        int newNumer = this.numer * anotherR.denom + this.denom * anotherR.numer;
+        int newDenom  = this.denom * anotherR.denom;
+
+        Rational obj = new Rational(newNumer, newDenom);
+
+        return obj;
     }
 
     //override ToString() method
@@ -63,14 +68,15 @@ class Program
         //type(classname) nameforvarialble = new calltheconstructor
         Rational r2 = new Rational();
         // . (dot)is my access operator to varialbes class
-        r2.Denom = 5;
-        r2.numer = 8; 
+        r2.numer = 5;
+        r2.Denom = 8;         
         Console.WriteLine("the second rational number is: " + r2); 
 
         Rational r3 = new Rational(x:5); 
         Console.WriteLine("the second rational number is: " + r3); 
         
-        Rational addResult = r1.add(r2)
+        Rational addResult = r1.add(r2);
+        Console.WriteLine("the result of sume is: " + addResult);
 
 
     }
