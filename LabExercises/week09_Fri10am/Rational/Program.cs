@@ -46,6 +46,10 @@ class Rational
         return obj;
     }
 
+    public Rational neg() {
+        return new Rational(-numer, denom);
+    }
+
     //override ToString() method
     public override string ToString(){
         //show your desired message when outputing / printing the object of class Rational
@@ -77,6 +81,13 @@ class Program
         
         Rational addResult = r1.add(r2);
         Console.WriteLine("the result of sume is: " + addResult);
+
+        Rational negResult = r1.neg();
+        Console.WriteLine("the result of negation is: " + negResult);
+
+        var subResult = r1.add(r2.neg());
+        Console.WriteLine("the result of subtraction is: " + subResult);
+
 
 
     }
