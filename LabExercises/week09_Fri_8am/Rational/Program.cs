@@ -40,9 +40,11 @@ class Rational {
         return this.add(anotherR.neg());
     }
 
-
-
-
+    public Rational mul(Rational that) {
+        int newNumer = this.numer * that.numer;
+        int newDenom = this.denom * that.denom;
+        return new Rational(newNumer, newDenom);
+    }
 
     public override string ToString(){
         string msg = $"{numer}/{denom}";
@@ -79,7 +81,11 @@ public class Program
         Rational subResult = r1.add(r2.neg());
         Console.WriteLine("the subtract result is: "+ subResult);
 
-        subResult = r1.sub(r2)
+        subResult = r1.sub(r2);
+
+        Rational mulResult = r1.mul(r2); 
+        Console.WriteLine("the multiplication result is: "+ mulResult);
+
 
         
     }
