@@ -30,6 +30,17 @@ class Rational
         denom = y;
     }
 
+    public Rational(int x) {
+        //your code here
+        numer = x;
+        denom = 1;
+    }
+
+    //this as an obj inside the class this.numer
+    public Rational add(Rational anotherR) {
+        
+    }
+
     //override ToString() method
     public override string ToString(){
         //show your desired message when outputing / printing the object of class Rational
@@ -54,9 +65,13 @@ class Program
         // . (dot)is my access operator to varialbes class
         r2.Denom = 5;
         r2.numer = 8; 
-        Console.WriteLine("the second rational number is: " + r2);
+        Console.WriteLine("the second rational number is: " + r2); 
 
+        Rational r3 = new Rational(x:5); 
+        Console.WriteLine("the second rational number is: " + r3); 
         
+        Rational addResult = r1.add(r2)
+
 
     }
 }
