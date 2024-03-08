@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Net.Security;
 
 class Rational {
     //define class variables
@@ -21,9 +22,27 @@ class Rational {
         denom = 1;
     }
 
-    public ??? add(Rational anotherR){
+    public Rational add(Rational anotherR){
+        int newNumer = this.numer * anotherR.denom + this.denom * anotherR.numer;
+        int newDenom = this.denom * anotherR.denom;
+
+        Rational resultR = new Rational(newNumer, newDenom);
         
+        return resultR;
     }
+
+    public Rational neg() {
+        Rational negR = new Rational(-numer, denom);
+        return negR;
+    }
+
+    public Rational sub(Rational anotherR) {
+        return this.add(anotherR.neg());
+    }
+
+
+
+
 
     public override string ToString(){
         string msg = $"{numer}/{denom}";
@@ -38,6 +57,7 @@ public class Program
     {
         //main constructor: do the creation step : make an object or an instance of your class
         Rational r1 = new Rational(x:2, y:3);
+        Console.WriteLine("The rational number is: " + r1);
 
         //default constructor
         Rational r2 = new Rational();
@@ -50,7 +70,16 @@ public class Program
         Rational r3 = new Rational(5); 
         Console.WriteLine("The rational number is: " + r3);
 
-        Rational addResult = r1.add(r2)
+        Rational addResult = r1.add(r2);
+        Console.WriteLine($"{r1} + {r2} = {addResult}");
+
+        Rational r2Negative = r2.neg();
+        Console.WriteLine("The neg() method test : " + r2Negative);
+
+        Rational subResult = r1.add(r2.neg());
+        Console.WriteLine("the subtract result is: "+ subResult);
+
+        subResult = r1.sub(r2)
 
         
     }
