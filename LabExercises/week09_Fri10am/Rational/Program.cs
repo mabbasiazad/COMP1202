@@ -26,7 +26,7 @@ class Rational
 
     //user defined constructor
     public Rational(int x, int y) {
-        numer = x;
+        numer = x ;
         denom = y;
     }
 
