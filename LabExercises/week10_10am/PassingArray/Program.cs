@@ -21,9 +21,9 @@ class Program
     }
     public static void Main(string[] args)
     {
-        int[] numbers = new int[10]; 
-        numbers = [2, 4, 13, 12, 11, 9, 25, 2, 64,99];
+        int[] numbers = new int[10]{2, 4, 13, 12, 11, 9, 25, 2, 64,99}; 
         //pass numbers to average method and get the average and display it
+
 
         Console.WriteLine("numbers before arrayChange call");
         printArray(numbers);
