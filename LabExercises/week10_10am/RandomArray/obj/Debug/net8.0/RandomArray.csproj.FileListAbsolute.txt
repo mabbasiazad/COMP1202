@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\bin\Debug\net8.0\RandomArray.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\bin\Debug\net8.0\RandomArray.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\bin\Debug\net8.0\RandomArray.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\bin\Debug\net8.0\RandomArray.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\bin\Debug\net8.0\RandomArray.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\obj\Debug\net8.0\RandomArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\obj\Debug\net8.0\RandomArray.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\obj\Debug\net8.0\RandomArray.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\obj\Debug\net8.0\RandomArray.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\obj\Debug\net8.0\RandomArray.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\obj\Debug\net8.0\RandomArray.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\obj\Debug\net8.0\refint\RandomArray.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\obj\Debug\net8.0\RandomArray.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\obj\Debug\net8.0\RandomArray.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\RandomArray\obj\Debug\net8.0\ref\RandomArray.dll
