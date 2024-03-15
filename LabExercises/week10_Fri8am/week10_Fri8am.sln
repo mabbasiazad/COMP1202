@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumberArray", "Random
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average", "Average\Average.csproj", "{C7944013-A307-4D4F-8302-F3773D1DBCC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentCollection", "StudentCollection\StudentCollection.csproj", "{78C9397B-4F88-4B21-8ACE-8A5CC647A002}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{C7944013-A307-4D4F-8302-F3773D1DBCC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7944013-A307-4D4F-8302-F3773D1DBCC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7944013-A307-4D4F-8302-F3773D1DBCC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C9397B-4F88-4B21-8ACE-8A5CC647A002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C9397B-4F88-4B21-8ACE-8A5CC647A002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C9397B-4F88-4B21-8ACE-8A5CC647A002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C9397B-4F88-4B21-8ACE-8A5CC647A002}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
