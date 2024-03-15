@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\bin\Debug\net8.0\ListGeneric.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\bin\Debug\net8.0\ListGeneric.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\bin\Debug\net8.0\ListGeneric.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\bin\Debug\net8.0\ListGeneric.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\bin\Debug\net8.0\ListGeneric.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\obj\Debug\net8.0\ListGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\obj\Debug\net8.0\ListGeneric.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\obj\Debug\net8.0\ListGeneric.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\obj\Debug\net8.0\ListGeneric.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\obj\Debug\net8.0\ListGeneric.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\obj\Debug\net8.0\ListGeneric.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\obj\Debug\net8.0\refint\ListGeneric.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\obj\Debug\net8.0\ListGeneric.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\obj\Debug\net8.0\ListGeneric.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Online\ListGeneric\obj\Debug\net8.0\ref\ListGeneric.dll
