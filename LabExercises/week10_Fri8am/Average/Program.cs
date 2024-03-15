@@ -21,6 +21,13 @@ class Program
         input = 3000;
     }
 
+    public static void printArray(int[] inputs){
+        foreach (var item in inputs)
+        {
+            Console.Write(item + " ");
+        }
+        Console.WriteLine();
+    }
     public static void Main(string[] args)
     {
         int[] numbers = new int[10]; 
@@ -31,14 +38,17 @@ class Program
         double ave = average(numbers);
         Console.WriteLine("the average of the array elemets is: " + ave);
 
-        Console.WriteLine("numbers before arrayChange call", numbers);
+        Console.WriteLine("numbers before arrayChange call");
+        printArray(numbers);
+
         arrayChange(numbers);
-        Console.WriteLine("numbers after arrayChange call", numbers);
+        Console.WriteLine("numbers after arrayChange call");
+        printArray(numbers);
 
 
         int number = 10; 
-        Console.WriteLine("number before numberChange call", number);
+        Console.WriteLine("number before numberChange call: " + number);
         numberChange(number); 
-        Console.WriteLine("number after numberChange call", number);        
+        Console.WriteLine("number after numberChange call: " + number);        
     }
 }
