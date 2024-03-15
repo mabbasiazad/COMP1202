@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{1D808AE2-4BF1-4AB0-B502-CF9EC7B475D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomArray", "RandomArray\RandomArray.csproj", "{B38F599A-1702-4384-B74E-9F5E0EBFD3C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{1D808AE2-4BF1-4AB0-B502-CF9EC7B475D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D808AE2-4BF1-4AB0-B502-CF9EC7B475D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D808AE2-4BF1-4AB0-B502-CF9EC7B475D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38F599A-1702-4384-B74E-9F5E0EBFD3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38F599A-1702-4384-B74E-9F5E0EBFD3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38F599A-1702-4384-B74E-9F5E0EBFD3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38F599A-1702-4384-B74E-9F5E0EBFD3C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
