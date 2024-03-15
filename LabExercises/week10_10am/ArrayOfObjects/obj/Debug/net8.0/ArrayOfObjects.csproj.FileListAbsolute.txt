@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\bin\Debug\net8.0\ArrayOfObjects.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\obj\Debug\net8.0\refint\ArrayOfObjects.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\obj\Debug\net8.0\ArrayOfObjects.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\ArrayOfObjects\obj\Debug\net8.0\ref\ArrayOfObjects.dll

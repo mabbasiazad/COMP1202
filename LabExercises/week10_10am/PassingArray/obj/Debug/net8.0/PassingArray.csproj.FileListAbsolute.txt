@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\bin\Debug\net8.0\PassingArray.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\bin\Debug\net8.0\PassingArray.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\bin\Debug\net8.0\PassingArray.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\bin\Debug\net8.0\PassingArray.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\bin\Debug\net8.0\PassingArray.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\obj\Debug\net8.0\PassingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\obj\Debug\net8.0\PassingArray.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\obj\Debug\net8.0\PassingArray.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\obj\Debug\net8.0\PassingArray.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\obj\Debug\net8.0\PassingArray.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\obj\Debug\net8.0\PassingArray.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\obj\Debug\net8.0\refint\PassingArray.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\obj\Debug\net8.0\PassingArray.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\obj\Debug\net8.0\PassingArray.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_10am\PassingArray\obj\Debug\net8.0\ref\PassingArray.dll
