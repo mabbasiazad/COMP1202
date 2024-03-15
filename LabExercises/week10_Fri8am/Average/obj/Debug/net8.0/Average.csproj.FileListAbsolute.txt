@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\bin\Debug\net8.0\Average.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\bin\Debug\net8.0\Average.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\bin\Debug\net8.0\Average.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\bin\Debug\net8.0\Average.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\bin\Debug\net8.0\Average.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\obj\Debug\net8.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\obj\Debug\net8.0\Average.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\obj\Debug\net8.0\Average.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\obj\Debug\net8.0\Average.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\obj\Debug\net8.0\Average.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\obj\Debug\net8.0\Average.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\obj\Debug\net8.0\refint\Average.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\obj\Debug\net8.0\Average.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\obj\Debug\net8.0\Average.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week10_Fri8am\Average\obj\Debug\net8.0\ref\Average.dll
