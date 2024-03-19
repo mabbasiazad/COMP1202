@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\bin\Debug\net8.0\RandomNumArray.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\bin\Debug\net8.0\RandomNumArray.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\bin\Debug\net8.0\RandomNumArray.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\bin\Debug\net8.0\RandomNumArray.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\bin\Debug\net8.0\RandomNumArray.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\obj\Debug\net8.0\RandomNumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\obj\Debug\net8.0\RandomNumArray.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\obj\Debug\net8.0\RandomNumArray.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\obj\Debug\net8.0\RandomNumArray.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\obj\Debug\net8.0\RandomNumArray.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\obj\Debug\net8.0\RandomNumArray.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\obj\Debug\net8.0\refint\RandomNumArray.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\obj\Debug\net8.0\RandomNumArray.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\obj\Debug\net8.0\RandomNumArray.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\RandomNumArray\obj\Debug\net8.0\ref\RandomNumArray.dll

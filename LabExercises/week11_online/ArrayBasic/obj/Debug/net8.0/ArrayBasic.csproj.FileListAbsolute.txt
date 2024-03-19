@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\bin\Debug\net8.0\ArrayBasic.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\bin\Debug\net8.0\ArrayBasic.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\bin\Debug\net8.0\ArrayBasic.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\bin\Debug\net8.0\ArrayBasic.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\bin\Debug\net8.0\ArrayBasic.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\obj\Debug\net8.0\ArrayBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\obj\Debug\net8.0\ArrayBasic.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\obj\Debug\net8.0\ArrayBasic.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\obj\Debug\net8.0\ArrayBasic.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\obj\Debug\net8.0\ArrayBasic.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\obj\Debug\net8.0\ArrayBasic.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\obj\Debug\net8.0\refint\ArrayBasic.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\obj\Debug\net8.0\ArrayBasic.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\obj\Debug\net8.0\ArrayBasic.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\ArrayBasic\obj\Debug\net8.0\ref\ArrayBasic.dll
