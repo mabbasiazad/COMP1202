@@ -13,9 +13,16 @@
         Console.WriteLine("number of columns: " + n_cols);
 
         for (int i = 0; i < n_rows; i++) {
+            int sum = 0;
+            Console.Write($"Name: {students[i]}\t");
+            Console.Write("Grades: ");
             for (int j = 0; j < n_cols; j++){
-                Console.Write(grades[i,j] + " ");                
+                Console.Write(grades[i,j] + " "); 
+                sum = sum + grades[i,j];               
             }
+
+            double ave = (double) sum / n_cols;
+            Console.Write($"\tAverage: {ave}");
             Console.WriteLine();             
         }
 
