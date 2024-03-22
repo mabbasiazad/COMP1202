@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\bin\Debug\net8.0\Arrays2D.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\bin\Debug\net8.0\Arrays2D.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\bin\Debug\net8.0\Arrays2D.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\bin\Debug\net8.0\Arrays2D.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\bin\Debug\net8.0\Arrays2D.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\obj\Debug\net8.0\Arrays2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\obj\Debug\net8.0\Arrays2D.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\obj\Debug\net8.0\Arrays2D.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\obj\Debug\net8.0\Arrays2D.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\obj\Debug\net8.0\Arrays2D.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\obj\Debug\net8.0\Arrays2D.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\obj\Debug\net8.0\refint\Arrays2D.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\obj\Debug\net8.0\Arrays2D.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\obj\Debug\net8.0\Arrays2D.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_8am\Arrays2D\obj\Debug\net8.0\ref\Arrays2D.dll

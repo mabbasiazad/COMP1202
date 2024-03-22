@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\bin\Debug\net8.0\objectArray.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\bin\Debug\net8.0\objectArray.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\bin\Debug\net8.0\objectArray.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\bin\Debug\net8.0\objectArray.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\bin\Debug\net8.0\objectArray.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\obj\Debug\net8.0\objectArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\obj\Debug\net8.0\objectArray.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\obj\Debug\net8.0\objectArray.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\obj\Debug\net8.0\objectArray.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\obj\Debug\net8.0\objectArray.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\obj\Debug\net8.0\objectArray.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\obj\Debug\net8.0\refint\objectArray.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\obj\Debug\net8.0\objectArray.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\obj\Debug\net8.0\objectArray.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week11_online\objectArray\obj\Debug\net8.0\ref\objectArray.dll
