@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Array2D")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+450a3fc6a426b7fa3c6c3345bba908291910bce6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38373bba546967163300d90a5ab8b42a17d4571d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Array2D")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Array2D")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

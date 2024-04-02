@@ -28,13 +28,18 @@
         {
             Console.Write("name: " + names[i] + "\t");
             Console.Write("Grades: ");
+
+            int sum = 0;
             // loop over the columns when the row is fixed
             for (int j = 0; j < n_cols; j++)
             {
                 Console.Write($"{grades[i,j]}" + " ");
+                sum = sum + grades[i,j];
             }
 
-            Console.WriteLine();
+            double ave = (double) sum / n_cols;
+
+            Console.WriteLine("\tave: " + ave);
         }
 
 

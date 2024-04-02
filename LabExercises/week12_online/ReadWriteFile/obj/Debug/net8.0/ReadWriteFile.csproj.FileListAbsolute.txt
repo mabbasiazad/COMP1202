@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\bin\Debug\net8.0\ReadWriteFile.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\bin\Debug\net8.0\ReadWriteFile.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\bin\Debug\net8.0\ReadWriteFile.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\bin\Debug\net8.0\ReadWriteFile.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\bin\Debug\net8.0\ReadWriteFile.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\obj\Debug\net8.0\refint\ReadWriteFile.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online\ReadWriteFile\obj\Debug\net8.0\ref\ReadWriteFile.dll
