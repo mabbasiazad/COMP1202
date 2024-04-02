@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\bin\Debug\net8.0\FlashCard2.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\bin\Debug\net8.0\FlashCard2.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\bin\Debug\net8.0\FlashCard2.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\bin\Debug\net8.0\FlashCard2.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\bin\Debug\net8.0\FlashCard2.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\obj\Debug\net8.0\FlashCard2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\obj\Debug\net8.0\FlashCard2.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\obj\Debug\net8.0\FlashCard2.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\obj\Debug\net8.0\FlashCard2.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\obj\Debug\net8.0\FlashCard2.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\obj\Debug\net8.0\FlashCard2.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\obj\Debug\net8.0\refint\FlashCard2.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\obj\Debug\net8.0\FlashCard2.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\obj\Debug\net8.0\FlashCard2.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_online_Inclass\FlashCard2\obj\Debug\net8.0\ref\FlashCard2.dll
