@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\bin\Debug\net8.0\ReadingWriting.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\bin\Debug\net8.0\ReadingWriting.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\bin\Debug\net8.0\ReadingWriting.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\bin\Debug\net8.0\ReadingWriting.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\bin\Debug\net8.0\ReadingWriting.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\obj\Debug\net8.0\ReadingWriting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\obj\Debug\net8.0\ReadingWriting.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\obj\Debug\net8.0\ReadingWriting.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\obj\Debug\net8.0\ReadingWriting.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\obj\Debug\net8.0\ReadingWriting.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\obj\Debug\net8.0\ReadingWriting.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\obj\Debug\net8.0\refint\ReadingWriting.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\obj\Debug\net8.0\ReadingWriting.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\obj\Debug\net8.0\ReadingWriting.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\ReadingWriting\obj\Debug\net8.0\ref\ReadingWriting.dll

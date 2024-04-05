@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\bin\Debug\net8.0\FileIO.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\bin\Debug\net8.0\FileIO.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\bin\Debug\net8.0\FileIO.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\bin\Debug\net8.0\FileIO.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\bin\Debug\net8.0\FileIO.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\obj\Debug\net8.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\obj\Debug\net8.0\FileIO.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\obj\Debug\net8.0\FileIO.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\obj\Debug\net8.0\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\obj\Debug\net8.0\FileIO.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\obj\Debug\net8.0\FileIO.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\obj\Debug\net8.0\refint\FileIO.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\obj\Debug\net8.0\FileIO.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\obj\Debug\net8.0\FileIO.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\week12_8am\FileIO\obj\Debug\net8.0\ref\FileIO.dll
