@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\bin\Debug\net8.0\ExportItem.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\bin\Debug\net8.0\ExportItem.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\bin\Debug\net8.0\ExportItem.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\bin\Debug\net8.0\ExportItem.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\bin\Debug\net8.0\ExportItem.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\obj\Debug\net8.0\ExportItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\obj\Debug\net8.0\ExportItem.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\obj\Debug\net8.0\ExportItem.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\obj\Debug\net8.0\ExportItem.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\obj\Debug\net8.0\ExportItem.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\obj\Debug\net8.0\ExportItem.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\obj\Debug\net8.0\refint\ExportItem.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\obj\Debug\net8.0\ExportItem.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\obj\Debug\net8.0\ExportItem.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\ExportItem\obj\Debug\net8.0\ref\ExportItem.dll

@@ -14,8 +14,8 @@ class Program
             // Console.WriteLine(line);
             // //Processing of the data
             // string[] values = line.Split(',');
-            string time = values[0];
-            string temp = values[1];
+            // string time = values[0];
+            // string temp = values[1];
             // Console.WriteLine("Time" + time); 
             // Console.WriteLine("Temp" + temp); 
 
@@ -23,11 +23,22 @@ class Program
             //Split()
             
             line = reader.ReadLine(); //skip the first line
-            double maxTemp = -1000; 
+            double highestTemp = -1000.0;
+            string highestTempTime = null; 
             while ((line = reader.ReadLine()) != null)
             {
-                Console.WriteLine(line); // Output the contents of each line
+                //Console.WriteLine(line); // Output the contents of each line
+                string[] values = line.Split(',');
+                string currentTime = values[0];
+                string currentTemp = values[1];
+                if (double.Parse(currentTemp) > highestTemp)
+                {
+                    highestTemp = double.Parse(currentTemp);
+                    highestTempTime = currentTime;
+                }
             }
+
+            Console.WriteLine("The highest temperature is " + highestTemp + " which happend at " + highestTempTime);
 
         }
         
