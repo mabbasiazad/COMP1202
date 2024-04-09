@@ -1,0 +1,15 @@
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\bin\Debug\net8.0\MaxTemp.exe
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\bin\Debug\net8.0\MaxTemp.deps.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\bin\Debug\net8.0\MaxTemp.runtimeconfig.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\bin\Debug\net8.0\MaxTemp.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\bin\Debug\net8.0\MaxTemp.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\obj\Debug\net8.0\MaxTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\obj\Debug\net8.0\MaxTemp.AssemblyInfoInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\obj\Debug\net8.0\MaxTemp.AssemblyInfo.cs
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\obj\Debug\net8.0\MaxTemp.csproj.CoreCompileInputs.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\obj\Debug\net8.0\MaxTemp.sourcelink.json
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\obj\Debug\net8.0\MaxTemp.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\obj\Debug\net8.0\refint\MaxTemp.dll
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\obj\Debug\net8.0\MaxTemp.pdb
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\obj\Debug\net8.0\MaxTemp.genruntimeconfig.cache
+C:\Users\mabba\OneDrive - George Brown College\Winter2024\COMP1202\LabExercises\Week13_Online_InClass\MaxTemp\obj\Debug\net8.0\ref\MaxTemp.dll
