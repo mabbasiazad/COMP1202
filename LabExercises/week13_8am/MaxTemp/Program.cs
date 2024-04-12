@@ -53,8 +53,7 @@
 
         double maxOfMax = temps.Max();
         int index = temps.IndexOf(maxOfMax);
-        
-        // Console.WriteLine("Max of Max: " + temps[index]);
+               
         Console.WriteLine("Max Temp: " + temps[index] + " at Time: " + times[index] + " on Date: " + dates[index]);      
    
     }
